@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 25 17:07:23 2019
-@author: aotodata
-微信公众号: 凹凸数读
-微信公众号: 凹凸玩数据
-"""
-
 import requests
 from pyquery import PyQuery as pq
 import jsonpath
