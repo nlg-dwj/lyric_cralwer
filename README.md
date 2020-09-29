@@ -18,6 +18,8 @@
  ## 爬取歌曲文件流程
  
  - 运行song_download.py，输入想要爬取的歌单网址即可。
+## 同时爬取歌曲和歌词文件流程
+ - 运行song_and_lyric_download.py
 
  ## 注意事项
  
